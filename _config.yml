@@ -1,0 +1,55 @@
+title: Kyle Han Personal Website
+#baseurl: ""
+url: "https://kyleh2420.github.io"
+description: Kyle Han Personal Website
+
+# Build settings
+search_enabled: true
+footer_content: "Copyright © 2023 Kyle Han"
+permalink: pretty
+
+# External navigation links
+nav_external_links:
+  - title: GitHub Repository
+    url: https://github.com/khan2420/khan2420.github.io
+    hide_icon: false
+
+aux_links:
+  # Initialization Form: https://tce-innovation.github.io/Subcontractor-Automation/forms/initialization.html
+  # Correction Form: https://tce-innovation.github.io/Subcontractor-Automation/forms/correction.html
+
+favicon_ico: "{{ site.baseurl }}/assets/images/favicon.ico"
+
+# Google Analytics Tracking (optional)
+# e.g, UA-1234567-89a
+#ga_tracking: G-DXM302GVGM
+#ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+plugins:
+  - jekyll-seo-tag
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+  # ignore:
+  #   envs: all
