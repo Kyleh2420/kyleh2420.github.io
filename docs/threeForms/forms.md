@@ -9,9 +9,9 @@ permalink: /theForms
 # The Three Forms
 This process involves 3 Plumsail Forms:
 
-1. [Initialization Form]({{ site.baseurl }}{% link docs/threeForms/initializationForm.md %})
-2. [Subcontractor Form]({{ site.baseurl }}{% link docs/threeForms/subcontractorForm.md %})
-3. [Correction Form]({{ site.baseurl }}{% link docs/threeForms/correctionForm.md %})
+1. 
+2. 
+3. 
 
 All forms employ the same formatting restrictions, the rules for which can be found in 
 
