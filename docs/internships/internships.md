@@ -2,7 +2,7 @@
 title: Internships
 layout: default
 nav_order: 2
-has_children: true
+has_children: false
 child_nav_order: desc
 permalink: /internships
 ---
@@ -20,7 +20,7 @@ As of fall 2023, I have completed two internships, one at [TC Electric, LLC.](ht
 
 ## Summer 2023: TC Electric
 
-In the Summer of 2023, I interned for 11 weeks at TC Electric's NY midtown field office. There, I worked on the Innovation Team with Jacob Shavel as my mentor. Together with Rachel, a fellow intern, we completed the [Subcontractor Automation Project]({{ site.baseurl }}{% link docs/internships/tcElectric.md %}), a tool to guide Subcontractors through filling out required MTA forms.
+In the Summer of 2023, I interned for 11 weeks at TC Electric's NY midtown field office. There, I worked on the Innovation Team with Jacob Shavel as my mentor. Together with Rachel, a fellow intern, we completed the [Subcontractor Automation Project](https://tce-innovation.github.io/Subcontractor-Automation/), a tool to guide Subcontractors through filling out required MTA forms.
 
 I also created plan view drawings of CMRS for the mock intern project, where all the interns at TCE simulated the award of a new contractor for TCE. 
 
