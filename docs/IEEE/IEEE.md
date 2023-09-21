@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "IEEE @ SBU"
-nav_order: 1
+nav_order: 4
 has_children: true
 permalink: /IEEE
 ---
@@ -26,7 +26,17 @@ As the secretary for IEEE in the 2023-2024 school year, I lead techncial worksho
 
 ### Soldering Workshop
 
-For the fall 2023 soldering workshop, I created and programmed an ATTiny261A to play Simon Says. Using Fusion360 and JLCPCB, I manufactured a PCB that students would learn to solder on. Ultimately, the goal was to provide students with a credit-card sized trinket that they could be proud of making. 
+For the Fall 2023 soldering workshop, I created and programmed an ATTiny261A to play Simon Says. Using Fusion360 and JLCPCB, I manufactured a PCB that students would learn to solder on. Ultimately, the goal was to provide students with a credit-card sized trinket that they could be proud of making. 
+
+#### Creating the schematic
+
+#### Component Choices
+
+#### Prototyping and Programming
+
+#### Running the Workshop
+
+The workshop is set
 
 ### Open Program Space
 
