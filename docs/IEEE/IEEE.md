@@ -2,7 +2,7 @@
 layout: default
 title: "IEEE @ SBU"
 nav_order: 4
-has_children: true
+has_children: false
 permalink: /IEEE
 ---
 
@@ -16,6 +16,8 @@ permalink: /IEEE
 {:toc}
 
 ## What is IEEE?
+
+![The IEEE Logo]({{ site.baseurl }}/assets/images/IEEE/sbu-ieee-white-bg.png)
 
 IEEE, or the Institute of Electronics and Electrical Engineers is a student-run professional organization that aims to form a community of electrical engineers and further the knowledge, outreach, and networks of all those involved.
 
