@@ -19,6 +19,6 @@ Thanks for stopping by!
 
 # Links
 
-[Resume]({{ site.baseurl }}/assets/pdf/KyleHanResume.pdf){: .btn .btn-green .mr-2 }
+[Resume]({{ site.baseurl }}/assets/pdf/Kyle%20Han%20Resume.pdf){: .btn .btn-outline .mr-2 }
 [GitHub](https://github.com/Kyleh2420/){: .btn .btn-outline .mr-2 }
-[LinkedIn](https://www.linkedin.com/in/kyleh2420/){: .btn .btn-blue .mr-2 }
+[LinkedIn](https://www.linkedin.com/in/kyleh2420/){: .btn .btn-outline .mr-2 }
