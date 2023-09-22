@@ -12,6 +12,9 @@ nav_order: 2023-08-18
 ## Table of Contents 
 {: .no_toc}
 
+![workers wearing high visibility vests climb down into the tracks.]({{ site.baseurl }}/assets/images/TCE/trackTraining1.jpg)
+*As a part of working at TCE, all employees are mandated to be track trained. This entails a MTA supervised trip into the tracks to learn how to act around moving equipment.*
+
 ## About
 
 In the Summer of 2023, I interned for 11 weeks at TC Electric's NY midtown field office. There, I worked on the Innovation Team with Jacob Shavel as my mentor. Together with Rachel, a fellow intern, we completed the [Subcontractor Automation Project](https://tce-innovation.github.io/Subcontractor-Automation/), a tool to guide Subcontractors through filling out required MTA forms.
@@ -24,6 +27,10 @@ There are 10 MTA forms subcontractors are required to fill out. Each form contai
 
 Rachel and I did SWOT (Strengths, Weaknesses, Opportunities and Threats) analysis on a set of ideas we came up with. We eventually settled on a [Plumsail Forms](https://plumsail.com/forms/) as a flexible form builder. It supported programming using JavaScript, but integrated well with Microsoft SharePoint, TCE's perferred internal network.
 
+The end result is a wizard that guides subcontractors through filling out MTA forms, limiting the mistakes a subcontractor can make by error checking their inputs. Known good information was autofilled and disabled so that subcontracts can't input wrong data.
+
+![A screenshot of a web form]({{ site.baseurl }}/assets/images/TCE/screenshotSubAutomation.png)
+*A screenshot of the subcontractor wizard. Autofilled inforamtion is shown and grayed out.*
 
 ## Research Roundups
 
@@ -35,11 +42,9 @@ Over the course of 11 weeks, I produced 10 weekly reports about industry innovat
 
 ## Field Images
 
-![Worker uses a machine sitting on the rails in a railyard.]({{ site.baseurl }}/assets/images/abtusTesting.jpg)
+![Worker uses a machine sitting on the rails in a railyard.]({{ site.baseurl }}/assets/images/TCE/abtusTesting.jpg)
 *The Abtus Routescan is an automation strategy the innovation team was testing to quickly take clearnace measurements when installing wayside equipment.*
 
-![workers wearing high visibility vests climb down into the tracks.]({{ site.baseurl }}/assets/images/trackTraining1.jpg)
-*As a part of working at TCE, all employees had to be track trained. This entails a supervised trip into the tracks.*
 
-![workers wearing high visibility vests watches train approaching.]({{ site.baseurl }}/assets/images/trackTraining2.jpg)
+![workers wearing high visibility vests watches train approaching.]({{ site.baseurl }}/assets/images/TCE/trackTraining2.jpg)
 *After being set up, a train would bypass, completing the training on how to act while on the subway tracks.*
