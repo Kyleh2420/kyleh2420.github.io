@@ -1,5 +1,5 @@
 ---
-title: Amplitude Modulator
+title: Amplitude Modulator and Demodulator
 layout: default
 parent: Projects
 nav_order: 2022-08-18

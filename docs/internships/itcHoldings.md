@@ -41,5 +41,5 @@ Though heavy use of automation using Python and Excel shortcuts, I found that T2
 ![Me hanging up a lockout tag.]({{ site.baseurl }}/assets/images/ITC/lockoutTagout.jpg)
 *As a part of experiencing the field, the field supervisor had us emulate hanging up a lockout/tagout device on a switch. It was difficult.*
 
-![A mobile crane being opeated]({{ site.baseurl }}/assets/images/ITC/lockoutTagout.jpg)
+![A mobile crane being opeated]({{ site.baseurl }}/assets/images/ITC/operatingCrane.jpg)
 *As another simulation, the interns had to operate a crane with a load on the end as smoothly as possible. My load ended up penduluming everywhere.*
