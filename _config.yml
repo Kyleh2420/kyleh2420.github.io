@@ -23,8 +23,8 @@ favicon_ico: "{{ site.baseurl }}/assets/images/favicon.ico"
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89a
-#ga_tracking: G-DXM302GVGM
-#ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+ga_tracking: G-5Q9945G7QD
+ga_tracking_anonymize_ip: false # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 callouts:
   highlight:
