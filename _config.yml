@@ -1,4 +1,4 @@
-title: Kyle Han Personal Website
+title: Kyle Han
 baseurl: ""
 url: "https://kyleh2420.github.io"
 description: Kyle Han
@@ -11,7 +11,7 @@ permalink: pretty
 # External navigation links
 nav_external_links:
   - title: GitHub Repository
-    url: https://github.com/khan2420/khan2420.github.io
+    url: https://github.com/kyleh2420/kyleh2420.github.io
     hide_icon: false
 
 aux_links:
