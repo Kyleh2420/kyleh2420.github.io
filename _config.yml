@@ -15,8 +15,9 @@ nav_external_links:
     hide_icon: false
 
 aux_links:
-  # Initialization Form: https://tce-innovation.github.io/Subcontractor-Automation/forms/initialization.html
-  # Correction Form: https://tce-innovation.github.io/Subcontractor-Automation/forms/correction.html
+  Resume: https://kyleh2420.github.io/assets/pdf/Kyle%20Han%20Resume.pdf
+  LinkedIn: https://www.linkedin.com/in/kyleh2420/
+  Github: https://github.com/Kyleh2420/
 
 favicon_ico: "{{ site.baseurl }}/assets/images/favicon.ico"
 
