@@ -1,4 +1,4 @@
-1---
+---
 title: TC Electric
 layout: default
 parent: Internships
