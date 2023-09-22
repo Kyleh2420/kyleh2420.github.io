@@ -34,4 +34,4 @@ I joined the Line Design group, where my tasks include the following:
 1. Analyze 13 years of electrical outages to study galloping and the effectiveness of T-2 ACSR conductors.
 2. Use PLS-CADD to update older Plan and Profiles to create new As-Builts.
 
-Though ITC, I was able to understand how an owner constructs and maintains the infrastructure necessary to power our future. You can learn (and see) more about my experiences [here]({{ site.baseurl }}{% link docs/internships/itcHoldings.md %}).
+Though ITC, I was able to understand how an owner constructs and maintains the infrastructure necessary to power our future. You can learn more about my experiences [here]({{ site.baseurl }}{% link docs/internships/itcHoldings.md %}).
