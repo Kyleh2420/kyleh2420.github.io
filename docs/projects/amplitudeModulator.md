@@ -6,9 +6,15 @@ nav_order: 2022-08-18
 #has_children: true
 ---
 
-# ESE 345: Communication Systems
+# ESE 342: Communication Systems
+{: .no_toc}
 
-In the fall of 2022, I took ESE 345: Communication Systems, where I learned the basics of wireless communication. We were required to construct and simulate the following two systems using Commercial Off-The-Shelf resources.
+1. TOC
+{:toc}
+
+
+## About
+In the fall of 2022, I took ESE 342: Communication Systems, where I learned the basics of wireless communication. We were required to construct and simulate the following two systems using Commercial Off-The-Shelf resources.
 1. Amplitude Modulator with a 15 dBm output power centered at 10GHz and a modulation depth of ± 5dB.
 2. Envelope Detector given an modulation equation and an arbitrary music file.
 
