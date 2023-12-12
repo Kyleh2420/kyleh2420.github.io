@@ -24,6 +24,17 @@ Feel free to explore my projects on the left bar and contact me at: [kyleh2420@g
 
 Thanks for stopping by!
 
+# Cool Information
+<a href="https://github.com/kyleh2420">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyleh2420&theme=material-palenight" />
+</a><br>
+<a href="https://github.com/kyleh2420">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kyleh2420&show_icons=true&theme=material-palenight" />
+</a><br>
+<a href="https://github.com/kyleh2420">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyleh2420&layout=compact&theme=material-palenight" />
+</a><br>
+
 # Links
 
 [Pipelined SIMD Unit]({{ site.baseurl }}/docs/projects/PipelinedSIMDUnit/){: .btn .btn-purple }
