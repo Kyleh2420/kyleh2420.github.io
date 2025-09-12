@@ -8,9 +8,11 @@ permalink: /
 # Kyle Han
 ## Hardware Engineer | RTL Design & FPGA Development
 
-Salutations! I'm Kyle, a hardware engineer passionate about digital logic design and semiconductor engineering. I recently completed my Master of Science in Computer Engineering from [Stony Brook University](https://www.stonybrook.edu/) in Spring 2025 (Yay!🥳), building upon my Bachelor of Engineering in Electrical Engineering (2024).
+Salutations! 
 
-My focus is on RTL design, FPGA implementation, and digital system architecture. I'm actively seeking opportunities in RTL design and FPGA engineering roles where I can contribute to innovative hardware solutions.
+I'm Kyle, a hardware engineer passionate about digital logic design and semiconductor engineering. I recently completed my Master of Science in Computer Engineering from [Stony Brook University](https://www.stonybrook.edu/) in Spring 2025 (Yay!🥳), building upon my Bachelor of Engineering in Electrical Engineering (2024).
+
+My focus is on RTL design, FPGA implementation, and digital system architecture. I'm actively seeking opportunities in RTL design and FPGA engineering roles where I can make a difference in the world.
 
 This website is a compilation of my personal projects and experiences. Please check it out (and thanks for stopping by!)
 
@@ -60,6 +62,13 @@ I'm always interested in discussing hardware engineering opportunities, technica
 [GitHub](https://github.com/Kyleh2420/){: .btn .btn-outline .mr-2 }
 [LinkedIn](https://www.linkedin.com/in/kyleh2420/){: .btn .btn-outline .mr-2 }
 [Email](mailto:kyleh2420@gmail.com){: .btn .btn-outline .mr-2 }
+
+---
+<object data="https://kyleh2420.github.io/assets/pdf/Kyle%20Han%20Resume.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://kyleh2420.github.io/assets/pdf/Kyle%20Han%20Resume.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://kyleh2420.github.io/assets/pdf/Kyle%20Han%20Resume.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 ---
 
 ## GitHub Activity
