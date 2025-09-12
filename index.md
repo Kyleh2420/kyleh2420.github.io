@@ -1,53 +1,81 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 title: Home
 nav_order: 1
 permalink: /
 ---
 
-# About Me
+# Kyle Han
+## Hardware Engineer | RTL Design & FPGA Development
 
-Hello! 
+Salutations! I'm Kyle, a hardware engineer passionate about digital logic design and semiconductor engineering. I recently completed my Master of Science in Computer Engineering from [Stony Brook University](https://www.stonybrook.edu/) in Spring 2025 (Yay!🥳), building upon my Bachelor of Engineering in Electrical Engineering (2024).
 
-My name is Kyle and I'm a 4th year student at [Stony Brook University](https://www.stonybrook.edu/) studying Electrical Engineering, on track for an accelerated Masters in Science in Computer Engineering. I am currently the secretary of the [IEEE at SBU Student Chapter](https://edu.ieee.org/us-sbu/), where I coordinate logistics and communication both internally and externally of the club. I am also a member of [Tau Beta Pi](https://www.tbp.org/home.cfm), and joined the [Stony Brook Motorsports team](http://me.eng.sunysb.edu/~motorsports/) on the Electrical Subsystem. In my free time, I like to explore my photography hobby - my go to is a Sony a7ii for digital and Hasselblad 501CM for film.
+My focus is on RTL design, FPGA implementation, and digital system architecture. I'm actively seeking opportunities in RTL design and FPGA engineering roles where I can contribute to innovative hardware solutions.
 
+This website is a compilation of my personal projects and experiences. Please check it out (and thanks for stopping by!)
 
-I am searching for opportunities in the hardware design or research and development sector.
+## Technical Expertise
 
+**Hardware Description Languages**
+- SystemVerilog (primary)
+- VHDL
+- Verilog
 
-This website is a compilation of my personal projects and experiences. I have linked below some of my coolest projects.
+**Design Tools & Platforms**
+- Synopsys Design Compiler
+- Siemens QuestaSim
+- Xilinx Vivado
 
-Feel free to explore my projects on the left bar and contact me at: [kyleh2420@gmail.com](mailto:kyleh24202gmail.com) if there you have any questions.
+**Core Competencies**
+- RTL design and verification
+- Digital signal processing
+- FPGA prototyping and implementation
+- Hardware-software integration
+- Design for testability
 
-Thanks for stopping by!
+## Leadership & Professional Development
 
-# Cool Information
-<a href="https://github.com/kyleh2420">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyleh2420&theme=material-palenight" />
-</a><br>
-<a href="https://github.com/kyleh2420">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kyleh2420&show_icons=true&theme=material-palenight" />
-</a><br>
-<a href="https://github.com/kyleh2420">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyleh2420&layout=compact&theme=material-palenight" />
-</a><br>
+Throughout my academic career, I've actively contributed to the engineering community through leadership roles:
 
-# Links
+- **Conference Director** - [IEEE Northeast Regional Student Conference](https://attend.ieee.org/stucon-2025)
+- **Graduate Advisor & Conference Chair** - [IEEE at SBU](https://edu.ieee.org/us-sbu/)
+- **Electrical Subsystem** - [Stony Brook Motorsports](http://me.eng.sunysb.edu/~motorsports/)
+- **Team Member** - [Stony Brook Robotics Team](https://sbroboticsteam.com/)
+- **Member** - [Tau Beta Pi Engineering Honor Society](https://www.tbp.org/home.cfm)
+- **Mentor** - [CEAS Peer Mentoring Program](https://www.stonybrook.edu/commcms/ceas-undergrad/current_students/peer_mentoring_program/)
 
-[Pipelined SIMD Unit]({{ site.baseurl }}/docs/projects/PipelinedSIMDUnit/){: .btn .btn-purple }
-[Amplitude Modulator and Envelope Detector]({{ site.baseurl }}/docs/projects/amplitudeModulator/){: .btn .btn-purple }
-[Senior Design Project (In Progress)]({{ site.baseurl }}/docs/projects/seniorDesign/){: .btn .btn-purple }
+## Featured Projects
+
+Explore my technical projects that demonstrate advanced RTL design, SIMD architectures, and hardware acceleration:
+
+[Dual Issue 11-Stage Superscalar Multimedia Unit]({{ site.baseurl }}/docs/projects/PipelinedSIMDUnit/){: .btn .btn-purple }
+[Matrix Multiplication Hardware Accelerator]({{ site.baseurl }}/docs/projects/amplitudeModulator/){: .btn .btn-purple }
+[Custom CMOS Carry Select Adder]({{ site.baseurl }}/docs/projects/seniorDesign/){: .btn .btn-purple }
+
+## Connect With Me
+
+I'm always interested in discussing hardware engineering opportunities, technical challenges, and innovative projects.
 
 [Resume]({{ site.baseurl }}/assets/pdf/Kyle%20Han%20Resume.pdf){: .btn .btn-outline .mr-2 }
 [GitHub](https://github.com/Kyleh2420/){: .btn .btn-outline .mr-2 }
 [LinkedIn](https://www.linkedin.com/in/kyleh2420/){: .btn .btn-outline .mr-2 }
+[Email](mailto:kyleh2420@gmail.com){: .btn .btn-outline .mr-2 }
+---
 
+## GitHub Activity
 
-<object data="https://kyleh2420.github.io/assets/pdf/Kyle%20Han%20Resume.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://kyleh2420.github.io/assets/pdf/Kyle%20Han%20Resume.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://kyleh2420.github.io/assets/pdf/Kyle%20Han%20Resume.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<a href="https://github.com/kyleh2420">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyleh2420&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/kyleh2420">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kyleh2420&show_icons=true&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/kyleh2420">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyleh2420&layout=compact&theme=material-palenight" />
+</a>
+
+---
+
+*This portfolio showcases my journey in hardware engineering and my commitment to advancing digital system design. Feel free to explore my projects and reach out to discuss potential collaborations or opportunities.*
